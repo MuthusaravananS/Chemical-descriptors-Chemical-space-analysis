@@ -1,2 +1,2 @@
-# PAK1_inhibitors
-Screening PAK1 inhibitors 
+# Chemical Descriptors and chemical space screening 
+Python scripts for Chemical Descriptors and chemical space screening for small molecule chemical structures 
